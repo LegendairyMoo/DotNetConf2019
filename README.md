@@ -7,8 +7,6 @@ The links below go directly to the session inside of the massive 24 Hour video c
 Sadly, I've no idea how long these links will remain on Twitch as older videos are periodically removed so be sure to watch them as soon as you can and figure out some way to record the recording if you want to keep them for any length of time
 
 
-- [**Title**](Link){:target="Twitch"} - [Presenter](Link)
- 
 - [**Building modular, multi-tenant ASP.NET Core apps with Orchard Core framework**](https://www.twitch.tv/videos/486001703?t=0h0m20s){:target="Twitch"} - [Sebastion Ros](https://www.dotnetconf.net/speakers/#sebastien-ros)
  
 - [**Cryptography 101 with .NET Core**](https://www.twitch.tv/videos/486001703?t=0h35m50s){:target="Twitch"} - [Robert Boedigheimer](https://www.dotnetconf.net/speakers/#robert-boedigheimer)
